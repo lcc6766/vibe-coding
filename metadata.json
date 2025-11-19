@@ -1,0 +1,7 @@
+{
+  "name": "VogueAI - Style Advisor",
+  "description": "An AI-powered fashion consultant that analyzes your outfit and generates virtual try-on images using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
